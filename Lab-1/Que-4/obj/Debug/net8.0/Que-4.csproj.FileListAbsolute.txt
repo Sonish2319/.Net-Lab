@@ -1,0 +1,15 @@
+/Users/sonish2319/Desktop/Net Lab/Lab-1/Que-4/bin/Debug/net8.0/Que-4
+/Users/sonish2319/Desktop/Net Lab/Lab-1/Que-4/bin/Debug/net8.0/Que-4.deps.json
+/Users/sonish2319/Desktop/Net Lab/Lab-1/Que-4/bin/Debug/net8.0/Que-4.runtimeconfig.json
+/Users/sonish2319/Desktop/Net Lab/Lab-1/Que-4/bin/Debug/net8.0/Que-4.dll
+/Users/sonish2319/Desktop/Net Lab/Lab-1/Que-4/bin/Debug/net8.0/Que-4.pdb
+/Users/sonish2319/Desktop/Net Lab/Lab-1/Que-4/obj/Debug/net8.0/Que-4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sonish2319/Desktop/Net Lab/Lab-1/Que-4/obj/Debug/net8.0/Que-4.AssemblyInfoInputs.cache
+/Users/sonish2319/Desktop/Net Lab/Lab-1/Que-4/obj/Debug/net8.0/Que-4.AssemblyInfo.cs
+/Users/sonish2319/Desktop/Net Lab/Lab-1/Que-4/obj/Debug/net8.0/Que-4.csproj.CoreCompileInputs.cache
+/Users/sonish2319/Desktop/Net Lab/Lab-1/Que-4/obj/Debug/net8.0/Que-4.sourcelink.json
+/Users/sonish2319/Desktop/Net Lab/Lab-1/Que-4/obj/Debug/net8.0/Que-4.dll
+/Users/sonish2319/Desktop/Net Lab/Lab-1/Que-4/obj/Debug/net8.0/refint/Que-4.dll
+/Users/sonish2319/Desktop/Net Lab/Lab-1/Que-4/obj/Debug/net8.0/Que-4.pdb
+/Users/sonish2319/Desktop/Net Lab/Lab-1/Que-4/obj/Debug/net8.0/Que-4.genruntimeconfig.cache
+/Users/sonish2319/Desktop/Net Lab/Lab-1/Que-4/obj/Debug/net8.0/ref/Que-4.dll
